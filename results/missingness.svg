@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="450" viewBox="0 0 960 450" role="img">
+<title>Fields with the most nulls · percent of credentials</title>
+<rect width="100%" height="100%" fill="#101b2c"/>
+<text x="24" y="34" fill="#f5f7fb" font-size="21" font-family="sans-serif">Fields with the most nulls · percent of credentials</text>
+<text x="24" y="78" fill="#cbd5e1" font-size="13" font-family="sans-serif">exam_code</text>
+<rect x="320" y="62" width="318.421052631579" height="21" rx="3" fill="#5eead4"/>
+<text x="648.421052631579" y="78" fill="#f5f7fb" font-size="13" font-family="sans-serif">57.1429</text>
+<text x="24" y="108" fill="#cbd5e1" font-size="13" font-family="sans-serif">eligibility</text>
+<rect x="320" y="92" width="332.89473684210526" height="21" rx="3" fill="#5eead4"/>
+<text x="662.8947368421052" y="108" fill="#f5f7fb" font-size="13" font-family="sans-serif">59.7403</text>
+<text x="24" y="138" fill="#cbd5e1" font-size="13" font-family="sans-serif">passing_score</text>
+<rect x="320" y="122" width="354.60526315789474" height="21" rx="3" fill="#5eead4"/>
+<text x="684.6052631578948" y="138" fill="#f5f7fb" font-size="13" font-family="sans-serif">63.6364</text>
+<text x="24" y="168" fill="#cbd5e1" font-size="13" font-family="sans-serif">renewal</text>
+<rect x="320" y="152" width="376.3157894736843" height="21" rx="3" fill="#5eead4"/>
+<text x="706.3157894736843" y="168" fill="#f5f7fb" font-size="13" font-family="sans-serif">67.5325</text>
+<text x="24" y="198" fill="#cbd5e1" font-size="13" font-family="sans-serif">question_count</text>
+<rect x="320" y="182" width="383.55263157894734" height="21" rx="3" fill="#5eead4"/>
+<text x="713.5526315789473" y="198" fill="#f5f7fb" font-size="13" font-family="sans-serif">68.8312</text>
+<text x="24" y="228" fill="#cbd5e1" font-size="13" font-family="sans-serif">last_changed</text>
+<rect x="320" y="212" width="441.44736842105266" height="21" rx="3" fill="#5eead4"/>
+<text x="771.4473684210527" y="228" fill="#f5f7fb" font-size="13" font-family="sans-serif">79.2208</text>
+<text x="24" y="258" fill="#cbd5e1" font-size="13" font-family="sans-serif">credential_code</text>
+<rect x="320" y="242" width="448.68421052631584" height="21" rx="3" fill="#5eead4"/>
+<text x="778.6842105263158" y="258" fill="#f5f7fb" font-size="13" font-family="sans-serif">80.5195</text>
+<text x="24" y="288" fill="#cbd5e1" font-size="13" font-family="sans-serif">official_prep</text>
+<rect x="320" y="272" width="470.39473684210526" height="21" rx="3" fill="#5eead4"/>
+<text x="800.3947368421052" y="288" fill="#f5f7fb" font-size="13" font-family="sans-serif">84.4156</text>
+<text x="24" y="318" fill="#cbd5e1" font-size="13" font-family="sans-serif">retirement_date</text>
+<rect x="320" y="302" width="513.8157894736843" height="21" rx="3" fill="#5eead4"/>
+<text x="843.8157894736843" y="318" fill="#f5f7fb" font-size="13" font-family="sans-serif">92.2078</text>
+<text x="24" y="348" fill="#cbd5e1" font-size="13" font-family="sans-serif">launch_date</text>
+<rect x="320" y="332" width="542.7631578947369" height="21" rx="3" fill="#5eead4"/>
+<text x="872.7631578947369" y="348" fill="#f5f7fb" font-size="13" font-family="sans-serif">97.4026</text>
+<text x="24" y="378" fill="#cbd5e1" font-size="13" font-family="sans-serif">no_expiry</text>
+<rect x="320" y="362" width="542.7631578947369" height="21" rx="3" fill="#5eead4"/>
+<text x="872.7631578947369" y="378" fill="#f5f7fb" font-size="13" font-family="sans-serif">97.4026</text>
+<text x="24" y="408" fill="#cbd5e1" font-size="13" font-family="sans-serif">replaced_by</text>
+<rect x="320" y="392" width="550.0" height="21" rx="3" fill="#5eead4"/>
+<text x="880.0" y="408" fill="#f5f7fb" font-size="13" font-family="sans-serif">98.7013</text>
+</svg>

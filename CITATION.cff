@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "AI certifications dataset (AI Course Check)"
+authors:
+  - family-names: Boland
+    given-names: Jake
+    orcid: "https://orcid.org/0009-0007-9781-5319"
+    affiliation: "AI Course Check"
+doi: 10.5281/zenodo.23837906
+url: "https://aicoursecheck.com/data/"
+repository-code: "https://github.com/jakeboland/ai-certifications-dataset"
+license: CC-BY-4.0
+date-released: 2026-10-31
+keywords:
+  - AI certification
+  - open data
+  - education
+

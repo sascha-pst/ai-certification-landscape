@@ -1,0 +1,19 @@
+{
+  "source": "https://github.com/jakeboland/ai-certifications-dataset",
+  "canonical_source": "https://aicoursecheck.com/data/",
+  "generated_at": "2026-11-01",
+  "sha256": "43e7bbc108374a9ea97c1ed3876287a5233becf71b131bdf8490e3d08d98e964",
+  "records": 77,
+  "issuers": 22,
+  "price_rows": 76,
+  "statuses": {
+    "active": 65,
+    "retired": 5,
+    "announced": 3,
+    "beta": 2,
+    "transitioning": 1,
+    "pilot": 1
+  },
+  "price_disclosed_credentials": 59,
+  "null_means": "not stated by the issuer"
+}

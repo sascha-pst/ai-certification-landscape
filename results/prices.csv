@@ -1,0 +1,77 @@
+id,price_row,issuer_name,name,status,level,label,amount,currency,tax,billing,region_note
+aws-certified-ai-business-strategist,0,Amazon Web Services,AWS Certified AI Business Strategist,beta,,beta,50.0,USD,not-stated,one-off,
+aws-certified-ai-business-strategist,1,Amazon Web Services,AWS Certified AI Business Strategist,beta,,standard,100.0,USD,not-stated,one-off,
+aws-certified-ai-practitioner,0,Amazon Web Services,AWS Certified AI Practitioner,active,foundational,standard,100.0,USD,not-stated,one-off,
+aws-certified-ai-practitioner,1,Amazon Web Services,AWS Certified AI Practitioner,active,foundational,standard,150.0,AUD,not-stated,one-off,Countries that use the Australian dollar
+aws-certified-generative-ai-developer-professional,0,Amazon Web Services,AWS Certified Generative AI Developer - Professional,active,professional,standard,300.0,USD,not-stated,one-off,
+aws-certified-generative-ai-developer-professional,1,Amazon Web Services,AWS Certified Generative AI Developer - Professional,active,professional,standard,449.0,AUD,not-stated,one-off,Countries that use the Australian dollar
+aws-certified-machine-learning-engineer-associate,0,Amazon Web Services,AWS Certified Machine Learning Engineer - Associate,transitioning,associate,standard,150.0,USD,not-stated,one-off,
+aws-certified-machine-learning-engineer-associate,1,Amazon Web Services,AWS Certified Machine Learning Engineer - Associate,transitioning,associate,beta,75.0,USD,not-stated,one-off,
+aws-certified-machine-learning-engineer-associate,2,Amazon Web Services,AWS Certified Machine Learning Engineer - Associate,transitioning,associate,standard,224.0,AUD,not-stated,one-off,Countries that use the Australian dollar
+aws-certified-machine-learning-specialty,0,Amazon Web Services,AWS Certified Machine Learning - Specialty,retired,specialty,standard,300.0,USD,not-stated,one-off,
+aws-databases-for-agentic-ai-demonstrated,0,Amazon Web Services,AWS Databases for Agentic AI Demonstrated,active,,standard,0.0,,not-stated,one-off,
+aws-securing-agent-identities-demonstrated,0,Amazon Web Services,AWS Securing Agent Identities Demonstrated,active,,standard,0.0,,not-stated,one-off,
+certnexus-certified-artificial-intelligence-practitioner-caip,0,CertNexus,Certified Artificial Intelligence Practitioner,active,,standard,367.5,USD,not-stated,one-off,
+cisco-ai-business-practitioner,0,Cisco,Cisco AI Business Practitioner,active,,standard,0.0,,not-stated,one-off,
+cisco-ai-technical-practitioner,0,Cisco,Cisco AI Technical Practitioner,active,,standard,150.0,USD,not-stated,one-off,
+comptia-secai-plus,0,CompTIA,CompTIA SecAI+,active,,standard,298.0,USD,not-stated,one-off,US store
+databricks-ai-agent-fundamentals,0,Databricks,AI Agent Fundamentals,active,,standard,0.0,,not-stated,one-off,
+databricks-context-engineer-associate,0,Databricks,Databricks Certified Context Engineer Associate,active,associate,standard,200.0,USD,not-stated,one-off,
+databricks-generative-ai-engineer-associate,0,Databricks,Databricks Certified Generative AI Engineer Associate,active,associate,standard,200.0,USD,not-stated,one-off,
+databricks-generative-ai-fundamentals,0,Databricks,Generative AI Fundamentals,active,,standard,0.0,,not-stated,one-off,
+databricks-machine-learning-associate,0,Databricks,Databricks Certified Machine Learning Associate,active,associate,standard,200.0,USD,not-stated,one-off,
+databricks-machine-learning-professional,0,Databricks,Databricks Certified Machine Learning Professional,active,professional,standard,200.0,USD,not-stated,one-off,
+giac-gaips,0,GIAC,GIAC AI Platform Security,active,,standard,999.0,USD,plus-tax,one-off,
+giac-gaips,1,GIAC,GIAC AI Platform Security,active,,retake,899.0,USD,plus-tax,one-off,
+giac-goaa,0,GIAC,GIAC Offensive AI Analyst,active,,standard,999.0,USD,plus-tax,one-off,
+giac-goaa,1,GIAC,GIAC Offensive AI Analyst,active,,retake,899.0,USD,plus-tax,one-off,
+github-copilot-gh-300,0,GitHub,GitHub Copilot,active,,standard,99.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+google-ai-essentials,0,Google,Google AI Essentials,active,,subscription,49.0,,not-stated,monthly,In the U.S. and Canada. Prices may vary in other countries.
+google-ai-professional-certificate,0,Google,Google AI Professional Certificate,active,,subscription,49.0,,not-stated,monthly,In the U.S. and Canada. Prices may vary in other countries.
+google-cloud-generative-ai-leader,0,Google Cloud,Generative AI Leader,active,,standard,99.0,,plus-tax,one-off,
+google-cloud-professional-agentic-architect,0,Google Cloud,Professional Agentic Architect,announced,professional,beta,120.0,USD,plus-tax,one-off,
+google-cloud-professional-agentic-architect,1,Google Cloud,Professional Agentic Architect,announced,professional,standard,200.0,USD,plus-tax,one-off,
+google-cloud-professional-machine-learning-engineer,0,Google Cloud,Professional Machine Learning Engineer,active,professional,standard,200.0,,plus-tax,one-off,
+google-gemini-certified-educator,0,Google for Education,Gemini Certified Educator,active,,standard,0.0,,not-stated,one-off,
+google-gemini-certified-faculty,0,Google for Education,Gemini Certified Faculty,active,,standard,0.0,,not-stated,one-off,
+google-gemini-certified-student,0,Google for Education,Gemini Certified Student,active,,standard,0.0,,not-stated,one-off,
+google-generative-ai-for-educators,0,Google,Generative AI for Educators with Gemini,active,,standard,0.0,,not-stated,one-off,
+google-prompting-essentials,0,Google,Google Prompting Essentials,active,,subscription,49.0,,not-stated,monthly,In the U.S. and Canada. Prices may vary in other countries.
+iapp-aigp,0,IAPP,Artificial Intelligence Governance Professional,active,,member,649.0,USD,not-stated,one-off,
+iapp-aigp,1,IAPP,Artificial Intelligence Governance Professional,active,,non-member,799.0,USD,not-stated,one-off,
+ibm-certified-watsonx-generative-ai-engineer-associate,0,IBM,IBM Certified watsonx Generative AI Engineer - Associate,active,associate,standard,200.0,USD,not-stated,one-off,United States
+isaca-aaia,0,ISACA,ISACA Advanced in AI Audit,active,,member,459.0,USD,not-stated,one-off,
+isaca-aaia,1,ISACA,ISACA Advanced in AI Audit,active,,non-member,599.0,USD,not-stated,one-off,
+isaca-aair,0,ISACA,ISACA Advanced in AI Risk,active,,member,459.0,USD,not-stated,one-off,
+isaca-aair,1,ISACA,ISACA Advanced in AI Risk,active,,non-member,599.0,USD,not-stated,one-off,
+isaca-aaism,0,ISACA,ISACA Advanced in AI Security Management,active,,member,459.0,USD,not-stated,one-off,
+isaca-aaism,1,ISACA,ISACA Advanced in AI Security Management,active,,non-member,599.0,USD,not-stated,one-off,
+isaca-ai-fundamentals-certificate,0,ISACA,Artificial Intelligence Fundamentals Certificate,active,,member,120.0,USD,not-stated,one-off,
+isaca-ai-fundamentals-certificate,1,ISACA,Artificial Intelligence Fundamentals Certificate,active,,non-member,144.0,USD,not-stated,one-off,
+langchain-certified-agent-engineer,0,LangChain,LangChain Certified Agent Engineer,active,,standard,99.0,USD,not-stated,one-off,
+microsoft-agentic-ai-business-solutions-architect-expert-ab-100,0,Microsoft,Microsoft Certified: Agentic AI Business Solutions Architect Expert,active,expert,standard,165.0,USD,plus-tax,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-ai-agent-builder-associate,0,Microsoft,Microsoft Certified: AI Agent Builder Associate,active,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-ai-business-professional-ab-730,0,Microsoft,Microsoft Certified: AI Business Professional,active,,standard,99.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-ai-transformation-leader,0,Microsoft,Microsoft Certified: AI Transformation Leader,active,,standard,99.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-azure-ai-apps-and-agents-developer-associate-ai-103,0,Microsoft,Microsoft Certified: Azure AI Apps and Agents Developer Associate,active,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-azure-ai-fundamentals-ai-901,0,Microsoft,Microsoft Certified: Azure AI Fundamentals,active,foundational,standard,99.0,USD,plus-tax,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-cloud-and-ai-security-engineer-associate-sc-500,0,Microsoft,Microsoft Certified: Cloud and AI Security Engineer Associate,active,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-copilot-and-agent-administration-fundamentals-ab-900,0,Microsoft,Microsoft 365 Certified: Copilot and Agent Administration Fundamentals,active,foundational,standard,99.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-dynamics-365-contact-center-ai-engineer-associate-ab-250,0,Microsoft,Microsoft Certified: Dynamics 365 Contact Center AI Engineer Associate,active,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-dynamics-365-sales-ai-consultant-associate-ab-210,0,Microsoft,Microsoft Certified: Dynamics 365 Sales AI Consultant Associate,beta,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-machine-learning-operations-engineer-associate-ai-300,0,Microsoft,Microsoft Certified: Machine Learning Operations Engineer Associate,active,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-multi-agent-ai-solutions-expert-ai-500,0,Microsoft,Microsoft Certified: Multi-Agent AI Solutions Expert,active,expert,standard,165.0,USD,plus-tax,one-off,Price based on the country or region in which the exam is proctored.
+microsoft-sql-ai-developer-associate-dp-800,0,Microsoft,Microsoft Certified: SQL AI Developer Associate,active,associate,standard,165.0,USD,not-stated,one-off,Price based on the country or region in which the exam is proctored.
+nvidia-agentic-ai-professional,0,NVIDIA,NVIDIA-Certified Professional Agentic AI,announced,professional,standard,200.0,USD,not-stated,one-off,
+nvidia-ai-infrastructure-operations-associate,0,NVIDIA,NVIDIA-Certified Associate AI Infrastructure and Operations,active,associate,standard,125.0,USD,not-stated,one-off,
+nvidia-generative-ai-llm-associate,0,NVIDIA,NVIDIA-Certified Associate Generative AI LLM,active,associate,standard,125.0,USD,not-stated,one-off,
+oracle-agentic-ai-foundations-associate,0,Oracle,Oracle Agentic AI Foundations Associate,active,foundational,standard,0.0,,not-stated,one-off,
+pmi-cpmai,0,Project Management Institute,PMI Certified Professional in Managing AI (PMI-CPMAI),active,,member,699.0,,not-stated,one-off,Exam prep course and certification bundle
+pmi-cpmai,1,Project Management Institute,PMI Certified Professional in Managing AI (PMI-CPMAI),active,,non-member,899.0,,not-stated,one-off,Exam prep course and certification bundle
+salesforce-agentforce-specialist,0,Salesforce,Salesforce Certified Agentforce Specialist,active,,standard,200.0,USD,plus-tax,one-off,
+salesforce-agentforce-specialist,1,Salesforce,Salesforce Certified Agentforce Specialist,active,,standard,30000.0,JPY,plus-tax,one-off,
+salesforce-agentforce-specialist,2,Salesforce,Salesforce Certified Agentforce Specialist,active,,retake,100.0,USD,plus-tax,one-off,
+salesforce-agentforce-specialist,3,Salesforce,Salesforce Certified Agentforce Specialist,active,,retake,15000.0,JPY,plus-tax,one-off,
+uipath-agentic-automation-associate,0,UiPath,Agentic Automation Associate,active,associate,standard,150.0,USD,plus-tax,one-off,
+uipath-agentic-automation-builder-professional,0,UiPath,Agentic Automation Builder Professional,active,professional,standard,300.0,USD,plus-tax,one-off,
+uipath-agentic-automation-professional,0,UiPath,Agentic Automation Professional,active,professional,standard,300.0,USD,plus-tax,one-off,

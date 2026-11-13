@@ -1,0 +1,16 @@
+currency,billing,label,tax,price_rows,credentials,minimum,median,maximum
+AUD,one-off,standard,not-stated,3,3,150.0,224.0,449.0
+JPY,one-off,retake,plus-tax,1,1,15000.0,15000.0,15000.0
+JPY,one-off,standard,plus-tax,1,1,30000.0,30000.0,30000.0
+USD,one-off,beta,not-stated,2,2,50.0,62.5,75.0
+USD,one-off,beta,plus-tax,1,1,120.0,120.0,120.0
+USD,one-off,member,not-stated,5,5,120.0,459.0,649.0
+USD,one-off,non-member,not-stated,5,5,144.0,599.0,799.0
+USD,one-off,retake,plus-tax,3,3,100.0,899.0,899.0
+USD,one-off,standard,not-stated,28,28,99.0,165.0,367.5
+USD,one-off,standard,plus-tax,10,10,99.0,200.0,999.0
+,monthly,subscription,not-stated,3,3,49.0,49.0,49.0
+,one-off,member,not-stated,1,1,699.0,699.0,699.0
+,one-off,non-member,not-stated,1,1,899.0,899.0,899.0
+,one-off,standard,not-stated,10,10,0.0,0.0,0.0
+,one-off,standard,plus-tax,2,2,99.0,149.5,200.0
